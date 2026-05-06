@@ -23,3 +23,6 @@ divide_numbers(10, 0)
 
 print("--- Test Case 3: Type Error Exception ---")
 divide_numbers(10, "a")
+
+print("--- Test Case 4: Float Division ---")
+divide_numbers(10.5, 2.5)
