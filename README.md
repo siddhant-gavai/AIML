@@ -16,11 +16,18 @@ This repository contains a collection of Python scripts and Jupyter Notebooks de
 - **`numPy/numpy2.ipynb`**: Array attributes, creation methods, and performance comparison.
 - **`numPy/numpy3.ipynb`**: Array basics, vectorization, and vector normalization examples.
 - **`numPy/numpy4.ipynb`**: Useful mathematical and statistical functions (Sum, Product, Min, Max, Mean, Median, Std Dev, Exponentials, Logarithms, Rounding, and Clipping).
+- **`numPy/numpy5_broadcasting.ipynb`**: NumPy Broadcasting and Vectorized Operations. Explains dimension compatibility, how scalar-array operations work, and how broadcasting applies to 2D/3D arrays.
 
 ### 3. Pandas Tutorials (`pandas/`)
 - **`pandas/panda1.ipynb`**: Introduction to Pandas Series, dictionaries, custom indexing, and basic DataFrame setup.
 - **`pandas/Creating DataFrame.ipynb`**: Comprehensive guide on constructing DataFrames from dictionaries of lists, lists of dictionaries, nested lists, and NumPy arrays.
 - **`pandas/Selecting and Filtering.ipynb`**: Detailed examples on selecting columns, label-based indexing (`.loc`), position-based indexing (`.iloc`), and boolean filtering.
+- **`pandas/Data Cleaning.ipynb`**: Data Cleaning in Pandas. Explains checking for null values with `.isna()`, dropping missing rows/columns with `.dropna()`, filling missing values with `.fillna()`, and general value replacement with `.replace()`.
+- **`pandas/Grouping and Aggregation.ipynb`**: Grouping and Aggregating Data in Pandas. Covers `.groupby()`, descriptive statistics per group (mean, sum, count), and the multi-functional `.agg()` method.
+- **`pandas/Merging and Joining.ipynb`**: Data Merging and Joining in Pandas. Detailed examples of merging on keys (`pd.merge`), concatenating along axes (`pd.concat`), and index-based joins (`.join`).
+
+### 4. Data Visualization (`data_visualization/`)
+- **`data_visualization/matplotlib_basics.ipynb`**: Matplotlib Basics. Introducing basic plotting: Line plots, Bar charts, Scatter plots, and plot customizations (labels, titles, legends, grids, and colors).
 
 ## Getting Started
 
