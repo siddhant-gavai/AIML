@@ -25,7 +25,7 @@ This repository contains a collection of Python scripts and Jupyter Notebooks de
 - **`pandas/Data Cleaning.ipynb`**: Data Cleaning in Pandas. Explains checking for null values with `.isna()`, dropping missing rows/columns with `.dropna()`, filling missing values with `.fillna()`, and general value replacement with `.replace()`.
 - **`pandas/Grouping and Aggregation.ipynb`**: Grouping and Aggregating Data in Pandas. Covers `.groupby()`, descriptive statistics per group (mean, sum, count), and the multi-functional `.agg()` method.
 - **`pandas/Merging and Joining.ipynb`**: Data Merging and Joining in Pandas. Detailed examples of merging on keys (`pd.merge`), concatenating along axes (`pd.concat`), and index-based joins (`.join`).
-- **`pandas/csv.ipynb`**: Reading external datasets. Covers loading and viewing data from CSV files (`pd.read_csv()`) and structured JSON files (`pd.read_json()`).
+- **`pandas/csv.ipynb`**: Reading and exploring external datasets. Covers loading data from CSV files (`pd.read_csv()`), structured JSON files (`pd.read_json()`), and analyzing the Tips dataset using basic DataFrame inspection methods (`.head()`, `.tail()`, `.info()`, `.describe()`, `.columns`, and `.shape`).
 
 ### 4. Data Visualization (`data_visualization/`)
 - **`data_visualization/matplotlib_basics.ipynb`**: Matplotlib Basics. Introducing basic plotting: Line plots, Bar charts, Scatter plots, and plot customizations (labels, titles, legends, grids, and colors).
