@@ -1,7 +1,22 @@
 [
     {
-        "name": "siddhant",
+        "name": "Siddhant",
         "age": 21,
         "city": "pune"
+    },
+    {
+        "name": "Anushka",
+        "age": 23,
+        "city": "mumbai"
+    },
+    {
+        "name": "Gaurav",
+        "age": 25,
+        "city": "delhi"
+    },
+    {
+        "name": "Onkar",
+        "age": 28,
+        "city": "Bangalore"
     }
 ]
