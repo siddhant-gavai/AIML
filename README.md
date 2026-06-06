@@ -23,6 +23,7 @@ This repository contains a collection of Python scripts and Jupyter Notebooks de
 - **`pandas/Creating DataFrame.ipynb`**: Comprehensive guide on constructing DataFrames from dictionaries of lists, lists of dictionaries, nested lists, and NumPy arrays.
 - **`pandas/Selecting and Filtering.ipynb`**: Detailed examples on selecting columns, label-based indexing (`.loc`), position-based indexing (`.iloc`), and boolean filtering.
 - **`pandas/Data Cleaning.ipynb`**: Data Cleaning in Pandas. Explains checking for null values with `.isna()`, dropping missing rows/columns with `.dropna()`, filling missing values with `.fillna()`, and general value replacement with `.replace()`.
+- **`pandas/Data Cleaning & Preprocessing.ipynb`**: Demonstrates basic data loading and setup for cleaning tasks using NumPy and Pandas.
 - **`pandas/Grouping and Aggregation.ipynb`**: Grouping and Aggregating Data in Pandas. Covers `.groupby()`, descriptive statistics per group (mean, sum, count), and the multi-functional `.agg()` method.
 - **`pandas/Merging and Joining.ipynb`**: Data Merging and Joining in Pandas. Detailed examples of merging on keys (`pd.merge`), concatenating along axes (`pd.concat`), and index-based joins (`.join`).
 - **`pandas/csv.ipynb`**: Reading and exploring external datasets. Covers loading data from CSV files (`pd.read_csv()`), structured JSON files (`pd.read_json()`), and analyzing the Tips dataset using basic DataFrame inspection methods (`.head()`, `.tail()`, `.info()`, `.describe()`, `.columns`, and `.shape`).
